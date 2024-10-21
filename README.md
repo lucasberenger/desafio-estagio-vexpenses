@@ -702,6 +702,6 @@ public_key = file("caminho/para/my_key.pub")
 ```
 Isso é o suficiente para utilizar a sua private_key de forma mais segura.
 
-2. Substitua os campos [ENDEREÇO DE IP] pelos endereços de IP reais que você deseja permitir se conectar à sua instância. Há de se modificar tanto os endereços de entrada quanto de saída.
+2. Substitua os campos [ENDEREÇO DE IP] pelos endereços de IP reais que você deseja permitir se conectar à sua instância. Há de se modificar tanto os endereços de entrada quanto os de saída.
 
 3. Com tudo configurado, salve o arquivo e rode o comando **terraform init** no terminal.
